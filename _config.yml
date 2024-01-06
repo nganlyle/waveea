@@ -1,5 +1,5 @@
-title: Waveea 
-description: A blog focused on photoplethysmography
+title: Waveea Blog
+description: My thoughts on infectious diseases, data science and photoplethysmograph
 show_downloads: true
 
 baseurl: "/waveea" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
