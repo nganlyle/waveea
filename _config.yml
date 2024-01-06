@@ -1,5 +1,5 @@
 title: Waveea
-description: Advancing signals for health
+description: A signal for health
 show_downloads: true
 
 baseurl: "/waveea" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
