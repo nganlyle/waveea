@@ -7,9 +7,6 @@ ref: about
 order: 0
 ---
 
-# This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as # basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
-
-# You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
-
+I am an infectious diseases physician. After many years in clinical practice I completed a Master in Data Science. This opened my eyes to different way of thinking and working - more attuned to possibilities and less skeptical of the machine. 
 
 [Go to the Home Page]({{ '/' | absolute_url }})
